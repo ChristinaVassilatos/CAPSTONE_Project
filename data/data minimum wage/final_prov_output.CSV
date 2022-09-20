@@ -1,0 +1,96 @@
+Province,Date,Amount,True Year
+Ontario,"October 1, 2020",14.25,2020
+Ontario,"October 1, 2018",14.0,2018
+Ontario,"October 1, 2017",11.6,2017
+Ontario,"October 1, 2016",11.4,2016
+Ontario,"October 1, 2015",11.25,2015
+Ontario,"June 1, 2014",11.0,2014
+Ontario,"March 31, 2010",10.25,2010
+Ontario,"March 31, 2009",9.5,2009
+Ontario,"March 31, 2008",8.75,2008
+Ontario,"February 1, 2007",8.0,2007
+Alberta,"October 1, 2018",15.0,2018
+Alberta,"October 1, 2017",13.6,2017
+Alberta,"October 1, 2016",12.2,2016
+Alberta,"October 1, 2015",11.2,2015
+Alberta,"September 1, 2014",10.2,2014
+Alberta,"September 1, 2013",9.95,2013
+Alberta,"September 1, 2012",9.75,2012
+Alberta,"September 1, 2011",9.4,2011
+Manitoba,"October 1, 2020",11.9,2020
+Manitoba,"October 1, 2019",11.65,2019
+Manitoba,"October 1, 2018",11.35,2018
+Manitoba,"October 1, 2017",11.15,2017
+Manitoba,"October 1, 2015",11.0,2015
+Manitoba,"October 1, 2014",10.7,2014
+Manitoba,"October 1, 2013",10.45,2013
+Manitoba,"October 1, 2012",10.25,2012
+Manitoba,"October 1, 2011",10.0,2011
+Manitoba,"October 1, 2010",9.5,2010
+Saskatchewan,"October 1, 2021",11.81,2021
+Saskatchewan,"October 1, 2020",11.45,2020
+Saskatchewan,"October 1, 2019",11.32,2019
+Saskatchewan,"October 1, 2018",11.06,2018
+Saskatchewan,"October 1, 2017",10.96,2017
+Saskatchewan,"October 1, 2016",10.72,2016
+Saskatchewan,"October 1, 2015",10.5,2015
+Saskatchewan,"October 1, 2014",10.2,2014
+Saskatchewan,"December 1, 2012",10.0,2012
+Saskatchewan,"September 1, 2011",9.5,2011
+Saskatchewan,"May 1, 2009",9.25,2009
+Nova Scotia,"April 1, 2022",13.35,2022
+Nova Scotia,"April 1, 2021",12.95,2021
+Nova Scotia,"April 1, 2020",12.55,2020
+Nova Scotia,"April 1, 2019",11.55,2019
+Nova Scotia,"April 1, 2018",11.0,2018
+Nova Scotia,"April 1, 2017",10.85,2017
+Nova Scotia,"April 1, 2016",10.7,2016
+Nova Scotia,"April 1, 2015",10.6,2015
+Nova Scotia,"April 1, 2014",10.4,2014
+Nova Scotia,"April 1, 2013",10.3,2013
+New Brunswick,"April 1, 2022",12.75,2022
+New Brunswick,"April 1, 2021",11.75,2021
+New Brunswick,"April 1, 2020",11.7,2020
+New Brunswick,"April 1, 2019",11.5,2019
+New Brunswick,"April 1, 2018",11.25,2018
+New Brunswick,"April 1, 2017",11.0,2017
+New Brunswick,"April 1, 2016",10.65,2016
+New Brunswick,"December 31, 2014",10.3,2014
+New Brunswick,"April 1, 2012",10.0,2012
+New Brunswick,"April 1, 2011",9.5,2011
+Newfoundland and Labrador,"April 1, 2022",13.2,2022
+Newfoundland and Labrador,"October 1, 2021",12.75,2021
+Newfoundland and Labrador,"April 1, 2021",12.5,2021
+Newfoundland and Labrador,"October 1, 2020",12.15,2020
+Newfoundland and Labrador,"April 1, 2020",11.65,2020
+Newfoundland and Labrador,"April 1, 2019",11.4,2019
+Newfoundland and Labrador,"April 1, 2018",11.15,2018
+Newfoundland and Labrador,"October 1, 2017",11.0,2017
+Newfoundland and Labrador,"April 1, 2017",10.75,2017
+Newfoundland and Labrador,"October 1, 2015",10.5,2015
+Prince Edward Island,"April 1, 2022",13.7,2022
+Prince Edward Island,"April 1, 2021",13.0,2021
+Prince Edward Island,"April 1, 2020",12.85,2020
+Prince Edward Island,"April 1, 2019",12.25,2019
+Prince Edward Island,"April 1, 2018",11.55,2018
+Prince Edward Island,"April 1, 2017",11.25,2017
+Prince Edward Island,"October 1, 2016",11.0,2016
+Prince Edward Island,"June 1, 2016",10.75,2016
+Prince Edward Island,"July 1, 2015",10.5,2015
+Prince Edward Island,October 1. 2014,10.35,2014
+Yukon,"April 1, 2022",15.7,2022
+Yukon,"August 1, 2021",15.2,2021
+Yukon,"April 1, 2021",13.85,2021
+Yukon,"April 1, 2020",13.71,2020
+Yukon,"April 1, 2019",12.71,2019
+Yukon,"April 1, 2018",11.51,2018
+Yukon,"April 1, 2017",11.32,2017
+Yukon,"April 1, 2016",11.07,2016
+Yukon,"April 1, 2015",10.86,2015
+Yukon,"April 1, 2014",10.72,2014
+Quebec,"May 1, 2022",14.25,2022
+Quebec,"May 1, 2021",13.5,2021
+Quebec,"May 1, 2020",13.1,2020
+Quebec,"May 1, 2019",12.5,2019
+Quebec,"May 1, 2018",12.0,2018
+Quebec,"May 1, 2017",11.25,2017
